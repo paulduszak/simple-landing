@@ -1,0 +1,9 @@
+{
+  "name": "simple-landing",
+  "version": "1.0.0",
+  "repository": "https://github.com/paulduszak/simple-landing.git",
+  "author": "Paul Duszak <duszak.paul@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["gatsby-landing-page", "site"]
+}
